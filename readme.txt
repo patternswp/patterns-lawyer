@@ -81,6 +81,10 @@ Source: https://github.com/google/material-design-icons
 
 == Changelog ==
 
+= 2.0.0 =
+* Hardening: 2.0.0 release — a11y (WCAG 1.4.12), review notice defaults, theme.json correctness, deploy.js parity with boilerplate.
+
+
 = 1.0.2 =
 * Updated font size naming in theme.json
 * Fixed outline style issue for button variations
