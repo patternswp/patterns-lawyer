@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 define( 'PATTERNS_LAWYER_PATH', trailingslashit( get_template_directory() ) );
 define( 'PATTERNS_LAWYER_URL', trailingslashit( get_template_directory_uri() ) );
-define( 'PATTERNS_LAWYER_VERSION', '1.0.2' );
+define( 'PATTERNS_LAWYER_VERSION', '2.0.0' );
 define( 'PATTERNS_LAWYER_THEME_NAME', 'patterns-lawyer' );
 define( 'PATTERNS_LAWYER_OPTION_NAME', 'patterns-lawyer' );
 
