@@ -1,132 +1,43 @@
 # Patterns Lawyer
 
-> **Patterns Lawyer** is a professional and refined block-based WordPress theme tailored for law firms, legal advisors, attorneys, and consultants. Designed for Full Site Editing (FSE), it offers the flexibility to build a credible and trustworthy online presence with ease.
+Patterns Lawyer is a sleek and professional WordPress theme crafted for law firms, legal advisors, and attorneys. Built with Full Site Editing (FSE), this block-based theme allows effortless customization of headers, footers, templates, and global styles using the intuitive WordPress Site Editor.It includes pre-designed patterns and layouts tailored for showcasing legal services, attorney profiles, case studies, testimonials, contact forms, and practice areas. From feature sections and team bios to consultation booking and FAQs, everything is designed to elevate your legal practice online.With a responsive design, Patterns Lawyer ensures your site maintains a polished and authoritative look across all devices—helping you build trust and connect with potential clients effectively.
 
-## Description
+Primary color: `#CB935D`.
 
-Patterns Lawyer is a sleek and highly functional Full Site Editing (FSE) WordPress theme, ideal for creating a strong and professional online presence for law firms, attorneys, legal consultants, and notary services. Built to highlight legal services, practice areas, case studies, and client testimonials, this block-based theme gives you the tools to craft a trustworthy and custom website. With FSE capabilities, Patterns Lawyer allows effortless customization of headers, footers, templates, and global styles directly in the WordPress Site Editor.
-
-## Table of Contents
-
-- [Patterns Lawyer](#patterns-lawyer)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Installation](#installation)
-    - [Activate the Theme](#activate-the-theme)
-    - [Start Customization](#start-customization)
-  - [Changelog](#changelog)
-  - [Contributing](#contributing)
-  - [Authors](#authors)
-  - [License & Attribution](#license--attribution)
-  - [About Us](#about-us)
+![screenshot](./screenshot.png)
 
 ## Features
 
-- **Full Site Editing (FSE):** Customize every aspect of your website using the WordPress block editor.
-- **Elegant Design:** Perfect for law firms, legal consultants, and attorneys seeking a professional and credible online presence.
-- **Responsive Layouts:** Optimized for seamless display on all devices.
-- **Pre-designed Templates:** Includes layouts for showcasing feature sections, services, about, team, testimonials, contact page, and more.
-- **Custom Block Patterns:** Simplify website creation with ready-to-use patterns.
-- **SEO Optimized:** Built with best practices for improved search engine rankings.
-- **High Performance:** Lightweight and optimized for fast loading.
+- 3 hero and landing patterns
+- 1 card layout (card-1)
+- 1 service section pattern
+- 5 archive/post-listing patterns
+- Contact page pattern (page-contact)
+- 1 menu navigation pattern
+- 15 section layout patterns (featured sections and section titles)
+- Full Site Editing (FSE) support
+- Responsive design
+- 63 block patterns + 15 templates + 11 template parts
+- Legal practice oriented layouts (practice areas, attorney profiles)
 
-## Getting Started
+## Requirements
 
-### Installation
+- WordPress 6.6 or higher
+- PHP 7.0 or higher
+- Tested up to WordPress 6.7
 
-- Clone the repository to your `/wp-content/themes/` directory:
+## Development
 
-  ```bash
-  git clone https://github.com/patternswp/patterns-lawyer.git
-  ```
+This theme uses `@wordpress/scripts`:
 
-- Or download and upload the theme files to `/wp-content/themes/patterns-lawyer`.
+```sh
+npm install
+npm run start    # dev mode with watch
+npm run build    # production build
+```
 
-### Activate the Theme
+## License
 
-Activate the theme via the WordPress admin dashboard under **Appearance > Themes**.
+GNU General Public License v2 or later.
 
-### Start Customization
-
-With Full Site Editing support, you can customize the theme through the WordPress Site Editor by navigating to **Appearance > Editor**. Modify headers, footers, layouts, and global styles to suit your lawyer needs.
-
-## Changelog
-
-### Version 1.0.0
-
-- Initial Release
-
-## Contributing
-
-We welcome contributions to improve Patterns Lawyer! Here's how you can contribute:
-
-1. **Fork the Repository**  
-   Click the "Fork" button on the repository page.
-
-2. **Clone your Fork**
-
-   ```bash
-   git clone https://github.com/your-username/patterns-lawyer.git
-   ```
-
-3. **Create a Feature Branch**
-
-   ```bash
-   git checkout -b my-new-feature
-   ```
-
-4. **Make Changes**  
-   Implement your changes and stage them:
-
-   ```bash
-   git add .
-   ```
-
-5. **Commit Changes**  
-   Commit with a descriptive message:
-
-   ```bash
-   git commit -m "Add feature for XYZ"
-   ```
-
-6. **Push to your Branch**  
-   Push your changes to your fork:
-
-   ```bash
-   git push origin my-new-feature
-   ```
-
-7. **Submit a Pull Request**  
-   Open a pull request with a clear title and description.
-
-Thank you for contributing to this project!
-
-## Authors
-
-- **PatternsWP.com** - [https://patternswp.com](https://patternswp.com)
-- **Santosh Kunwar** - [https://twitter.com/codersantosh](https://twitter.com/codersantosh)
-
-See the list of contributors who participated in this project.
-
-## License & Attribution
-
-Patterns Lawyer WordPress Theme, (C) 2025 PatternsWP.com.  
-Patterns Lawyer is distributed under the terms of the GNU GPL.
-
-This theme is based on WP Block Theme Boilerplate, (C) 2025 Santosh Kunwar, GPLv2 or later.  
-Atomic CSS, (C) 2025 Santosh Kunwar, MIT.
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-## About Us
-
-[PatternsWP – WordPress Patterns, Modern Plugins, and FSE Themes](https://patternswp.com/)
-
-### Recent Projects
-
-<a href="https://wordpress.org/plugins/patterns-store/" target="_blank">
-<img src="https://ps.w.org/patterns-store/assets/icon.svg" width="50" height="50" alt="Patterns Store Icon" />Patterns Store – Create a store for WordPress Patterns</a>
+This theme is based on [WP Block Theme Boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate), (C) 2025 Santosh Kunwar, [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
