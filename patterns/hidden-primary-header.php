@@ -12,9 +12,9 @@
 ?>
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
 <div class="wp-block-group alignwide" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
-        
+
         <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"},"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-            <div class="wp-block-group"> 
+            <div class="wp-block-group">
                 <!-- wp:pattern {"slug":"patterns-lawyer/site-identity"} /-->
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}},"border":{"left":{"color":"#ffffff40","style":"solid","width":"1px"},"top":{},"right":{"color":"#ffffff40","style":"solid","width":"1px"},"bottom":{}}},"layout":{"type":"constrained"}} -->
@@ -24,7 +24,7 @@
                 </div>
                 <!-- /wp:group -->
 
-               
+
             </div>
         <!-- /wp:group -->
 
@@ -41,7 +41,7 @@
             <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"small"} -->
             <p class="has-small-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e( 'Call : +00-123-456789', 'patterns-lawyer' ); ?></p>
             <!-- /wp:paragraph -->
-            
+
         </div>
             <!-- /wp:group -->
 
@@ -52,8 +52,8 @@
             <!-- /wp:buttons -->
         </div>
         <!-- /wp:group -->
-         
-    
+
+
 
     </div>
     <!-- /wp:group -->

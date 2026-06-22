@@ -18,19 +18,19 @@
 style="background-position:50% 50%;background-image:url(<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-4.jpg)">
 </div>
 <div class="wp-block-cover__inner-container">
-    
+
 <!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
 
     <!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center">
-    
+
 <!-- wp:column {"verticalAlignment":"center","width":"70%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:70%">    
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:70%">
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained","contentSize":"","justifyContent":"center","wideSize":""}} -->
 <div class="wp-block-group alignwide">
-    
+
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:separator {"style":{"layout":{"selfStretch":"fixed","flexSize":"5rem"}},"backgroundColor":"primary"} -->
 <hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
@@ -79,7 +79,7 @@ style="background-position:50% 50%;background-image:url(<?php echo esc_url( get_
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
- 
+
 </div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

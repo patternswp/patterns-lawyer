@@ -12,7 +12,7 @@
 
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group">    
+<div class="wp-block-group">
 
 <!-- wp:details {"showContent":true,"className":"is-style-custom-details","style":{"spacing":{"blockGap":"0"}}} -->
 <details class="wp-block-details is-style-custom-details" open><summary><?php esc_html_e( 'How Much Compensation Will I Receive For Inquiries?', 'patterns-lawyer' ); ?></summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"typography":{"lineHeight":"1.7"}},"textColor":"base","fontSize":"small"} -->

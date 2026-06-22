@@ -13,7 +13,7 @@
 ?>
 <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-1.jpg","isUserOverlayColor":true,"focalPoint":{"x":0,"y":0.5},"minHeight":80,"minHeightUnit":"vh","customGradient":"linear-gradient(90deg,rgb(255,255,255) 60%,rgba(155,81,224,0) 0%)","align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-cover alignfull" style="padding-top:0;padding-right:var(--wp--preset--spacing--30);padding-bottom:0;padding-left:var(--wp--preset--spacing--30);min-height:80vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(255,255,255) 60%,rgba(155,81,224,0) 0%)"></span><img class="wp-block-cover__image-background" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-1.jpg" style="object-position:0% 50%" data-object-fit="cover" data-object-position="0% 50%"/><div class="wp-block-cover__inner-container">
-    
+
 
 <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull"><!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->

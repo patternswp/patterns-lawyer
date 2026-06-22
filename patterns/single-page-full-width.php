@@ -16,7 +16,7 @@
 
 <!-- wp:group {"tagName":"main","metadata":{"name":"Main"},"align":"full","layout":{"type":"constrained"}} -->
 <main class="wp-block-group alignfull">
-	<!-- wp:post-content {"className":"pwp-child-reset","align":"full","layout":{"type":"constrained"}} /--> 
+	<!-- wp:post-content {"className":"pwp-child-reset","align":"full","layout":{"type":"constrained"}} /-->
 </main>
 <!-- /wp:group -->
 
