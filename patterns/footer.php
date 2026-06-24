@@ -71,7 +71,7 @@
         <!-- /wp:paragraph -->
     </div>
     <!-- /wp:group -->
-    
+
 </div>
 <!-- /wp:column -->
 
@@ -83,7 +83,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|80"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group">
-    
+
     <!-- wp:navigation {"textColor":"tertiary","overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
     <!-- wp:navigation-link {"label":"Blog","url":"#"} /-->
 
@@ -116,11 +116,11 @@
 <!-- wp:pattern {"slug":"patterns-lawyer/copyright"} /-->
 <!-- wp:paragraph {"className":"pwp-txt-dec-non","textColor":"tertiary","fontSize":"x-small"} -->
 <p class="pwp-txt-dec-non has-tertiary-color has-text-color has-x-small-font-size">
-    <?php 
+    <?php
     printf(
         esc_html__('Hire one of our professional legal experts this very day. Emergency Call: %s', 'patterns-lawyer'),
         '<a href="' . esc_url('tel:+000-123-456789') . '">' . esc_html__('+000-123-456789', 'patterns-lawyer') . '</a>'
-    ); 
+    );
     ?>
 </p>
             <!-- /wp:paragraph --></div>

@@ -13,5 +13,5 @@
  */
 
 ?>
-<!-- wp:pattern {"slug":"patterns-lawyer/featured-section-12"} /--> 
-<!-- wp:pattern {"slug":"patterns-lawyer/featured-section-13"} /--> 
+<!-- wp:pattern {"slug":"patterns-lawyer/featured-section-12"} /-->
+<!-- wp:pattern {"slug":"patterns-lawyer/featured-section-13"} /-->

@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Lawyer_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Lawyer_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-lawyer/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Lawyer_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 

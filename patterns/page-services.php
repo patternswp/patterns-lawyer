@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:Page Services
+ * Title: Page Services
  * Slug: patterns-lawyer/page-services
  * Categories: page
  * Keywords: Page

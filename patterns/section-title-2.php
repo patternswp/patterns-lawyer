@@ -16,7 +16,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:separator {"style":{"layout":{"selfStretch":"fixed","flexSize":"5rem"}},"backgroundColor":"primary"} -->
 <hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator -->
@@ -34,7 +34,7 @@
 
 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|80","right":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="font-style:normal;font-weight:500"><?php 
+<h2 class="wp-block-heading has-text-align-center" style="font-style:normal;font-weight:500"><?php
 printf(
     esc_html__('Your initial consultation with a lawyer is %s', 'patterns-lawyer'),
     '<mark style="background-color:rgba(0, 0, 0, 0);" class="has-inline-color has-primary-color">' . esc_html__('free', 'patterns-lawyer') . '</mark>'

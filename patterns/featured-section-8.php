@@ -22,7 +22,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%">
-    
+
 <!-- wp:group {"layout":{"type":"grid","columnCount":4,"minimumColumnWidth":null}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:image {"width":"100px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
@@ -74,7 +74,7 @@
 <!-- /wp:group -->
 
 
- 
+
 </div>
 <!-- /wp:group -->
 </div>

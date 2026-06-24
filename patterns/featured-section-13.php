@@ -26,7 +26,7 @@
 
 <!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%">
-    
+
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained","contentSize":"","justifyContent":"center","wideSize":""}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:separator {"style":{"layout":{"selfStretch":"fixed","flexSize":"5rem"}},"backgroundColor":"primary"} -->
@@ -42,7 +42,7 @@
 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}}} -->
 <h2 class="wp-block-heading has-text-align-left" style="font-style:normal;font-weight:500"><?php esc_html_e( 'Do you have any Questions?', 'patterns-lawyer' ); ?></h2>
 <!-- /wp:heading -->
- 
+
 <!-- wp:shortcode -->
 <?php esc_html_e( 'Add Contact form shortcode', 'patterns-lawyer' ); ?>
 <!-- /wp:shortcode -->
